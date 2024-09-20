@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('https://cdn.jsdelivr.net/gh/dancaria/vq-email-fonts/HelveticaNeue-Bold.eot');
+    src: local('Helvetica Neue Bold'), local('HelveticaNeue-Bold'),
+        url('https://cdn.jsdelivr.net/gh/dancaria/vq-email-fonts/HelveticaNeue-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dancaria/vq-email-fonts/HelveticaNeue-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dancaria/vq-email-fonts/HelveticaNeue-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dancaria/vq-email-fonts/HelveticaNeue-Bold.ttf') format('truetype'),
+        url('https://cdn.jsdelivr.net/gh/dancaria/vq-email-fonts/HelveticaNeue-Bold.svg#HelveticaNeue-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
